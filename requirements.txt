@@ -1,9 +1,9 @@
 ipycanvas>=0.9.1
 ipyevents>=2.0.1
 ipympl>=0.8.2
-ipywidgets>=7.7,<8
 IPython>=8,<9
 jupyterlab~=3.4.3
+ipywidgets>=7.7,<8
 jupyterlab-language-pack-ru-RU
 jupyterlab-fasta>=3,<4
 jupyterlab-filesystem-access
